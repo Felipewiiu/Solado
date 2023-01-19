@@ -13,7 +13,8 @@ export default function Cabecalho() {
         </div>
         <ul className={styles.lista_menu}>
             <ItemDeLista nome={"Lista de desejo"}/>
-            <li>entrar</li>
+            <ItemDeLista nome={"Entrar"}/>
+            
         </ul>
     </header>
   )

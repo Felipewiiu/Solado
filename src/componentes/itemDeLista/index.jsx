@@ -1,7 +1,7 @@
+import styles from './itenDeLista.module.css'
 
-
-export default function ItemDeLista(nome) {
+export default function ItemDeLista({nome}) {
   return (
-    <li >{nome}</li>
+    <li className={styles.item}>{nome}</li>
   )
 }
