@@ -4,5 +4,46 @@
     align-items: center;
     width: 100vw;
     height: 5rem;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
+
+    
+}
+
+.pesquisa{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    width: 30rem;
+}
+
+.icone{
+    width: 3rem;
+    height: 3rem;
+}
+
+.input{
+    height: 0.5rem;
+    width: 22rem;
+    border-radius: 20px;
+    border: none;
+    color: aliceblue;
+    padding: 0.9rem;
+    background: linear-gradient(#a44ae0, #7b40a1);
+}
+
+.input:focus{
+    box-shadow: 0 0 0 0 ;
+    outline: 0;
+}
+
+.lista_menu{
+    display: flex;
+    justify-content: space-around;
+    width: 15rem;
+    /* background-color: red; */
+}
+
+.item{
+    font-weight: 600;
 }
