@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+    width: 83vw;
+    height: 80vh;
+    background-color: green;
+}

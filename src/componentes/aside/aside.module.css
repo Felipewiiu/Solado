@@ -1,0 +1,7 @@
+.container{
+    display: inline-block;
+    width: 15rem;
+    height: 80vh;
+    /* background-color: red; */
+    border-right: solid 1px rgba(124, 124, 124, 0.822);
+}
