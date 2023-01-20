@@ -1,6 +1,6 @@
 [
     {
-        "path": "/fotosTenis/nikeAzulMarinhoMasculino.png",
+        "path": "../../../public/fotosTenis/nikeAzulMarinhoMasculino.png",
         "marca" : "Nike",
         "modelo" : "Masculino",
         "cor": "Azul Marinho"
