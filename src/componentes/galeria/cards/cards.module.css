@@ -1,8 +1,35 @@
 .cardContainer{
     width: 20rem;
-    height: 20rem;
-    background-color: red;
-    margin: 20px;
+    height: 30rem;
+    /* background-color: red; */
+    margin: 2rem;
 
     
+}
+
+.img{
+    width: 20rem;
+    height: 20rem; 
+    background-color: rgb(38, 222, 222);
+}
+
+.containerDescricao p{
+    padding: 0.4rem;
+}
+
+.preco{
+    color: rgb(90, 90, 90);
+    font-size: 1.1rem;
+    text-decoration: line-through;
+}
+
+.frete{
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(50, 204, 168);
+}
+
+.desconto{
+    font-weight: bold;
+    font-size: 1.35rem;
 }

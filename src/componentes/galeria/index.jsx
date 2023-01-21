@@ -9,7 +9,7 @@ export default function Galeria() {
     <div className={styles.container}>
       {produto.map(item => {
         return(
-          <Cards produto={produto}/>
+          <Cards produto={item}/>
 
         )
         

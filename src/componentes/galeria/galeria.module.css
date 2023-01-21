@@ -1,6 +1,10 @@
 .container{
     display: flex;
-    width: 83vw;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 85vw;
     height: 80vh;
-    background-color: green;
+    overflow-y: scroll;
+    /* background-color: green; */
 }

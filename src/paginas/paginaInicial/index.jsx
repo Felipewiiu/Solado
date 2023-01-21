@@ -4,10 +4,10 @@ import Cabecalho from '../../componentes/cabecalho'
 import Galeria from '../../componentes/galeria'
 import styles from './paginaInicial.module.css'
 
-export default function Main() {
+export default function Main({estilo}) {
   
   return (
-    <body >
+    <body className={estilo}>
         <Cabecalho/>
 
       <main className={styles.principal}>
