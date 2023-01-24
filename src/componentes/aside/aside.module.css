@@ -5,3 +5,11 @@
     /* background-color: red; */
     border-right: solid 1px rgba(124, 124, 124, 0.822);
 }
+
+.item{
+    font-weight: 500;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-block: 2rem;
+    margin-inline: 2rem;
+}

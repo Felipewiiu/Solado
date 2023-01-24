@@ -11,36 +11,125 @@
         "id": "1"
     },
     {
-        "path": "/assets/fotosTenis/nikeAzulMarinhoMasculino.png",
+        "path": "/assets/fotosTenis/nikeAzulMasculino.png",
         "marca" : "Nike",
         "modelo" : "Masculino",
-        "cor": "Azul Marinho",
-        "preco": "300,00",
-        "desconto": "245,00",
+        "cor": "Azul",
+        "preco": "700,00",
+        "desconto": "620,00",
         "frete": "Frete grátis",
-        "parcela": 4,
-        "id": "1"
+        "parcela": 6,
+        "id": "2"
     },
     {
-        "path": "/assets/fotosTenis/nikeAzulMarinhoMasculino.png",
+        "path": "/assets/fotosTenis/nikeBrancoAzulMasulino.png",
         "marca" : "Nike",
         "modelo" : "Masculino",
-        "cor": "Azul Marinho",
-        "preco": "300,00",
-        "desconto": "245,00",
+        "cor": "Azul e branco",
+        "preco": "390,00",
+        "desconto": "320,00",
         "frete": "Frete grátis",
-        "parcela": 4,
-        "id": "1"
+        "parcela": 5,
+        "id": "3"
     },
     {
-        "path": "/assets/fotosTenis/nikeAzulMarinhoMasculino.png",
+        "path": "/assets/fotosTenis/nikeBrancoMasculino.png",
         "marca" : "Nike",
         "modelo" : "Masculino",
-        "cor": "Azul Marinho",
-        "preco": "300,00",
-        "desconto": "245,00",
+        "cor": "branco",
+        "preco": "600,00",
+        "desconto": "540,00",
+        "frete": "Frete grátis",
+        "parcela": 6,
+        "id": "4"
+    },
+    {
+        "path": "/assets/fotosTenis/nikeBrancoPretoMasculino.png",
+        "marca" : "Nike",
+        "modelo" : "Masculino",
+        "cor": "preto",
+        "preco": "480,00",
+        "desconto": "420,00",
+        "frete": "Frete grátis",
+        "parcela": 3,
+        "id": "5"
+    },
+    {
+        "path": "/assets/fotosTenis/nikeBrancoRosaMasculino.png",
+        "marca" : "Nike",
+        "modelo" : "Masculino",
+        "cor": "branco rosa",
+        "preco": "700,00",
+        "desconto": "670,00",
+        "frete": "Frete grátis",
+        "parcela": 6,
+        "id": "6"
+    },
+    {
+        "path": "/assets/fotosTenis/nikeBrancoVerdeFeminino.png",
+        "marca" : "Nike",
+        "modelo" : "Feminino",
+        "cor": "branco verde",
+        "preco": "530,00",
+        "desconto": "500,00",
+        "frete": "Frete grátis",
+        "parcela": 6,
+        "id": "7"
+    },
+    {
+        "path": "/assets/fotosTenis/nikeDouradoMasculino.png",
+        "marca" : "Nike",
+        "modelo" : "Masculino",
+        "cor": "dourado",
+        "preco": "700,00",
+        "desconto": "640,00",
+        "frete": "Frete grátis",
+        "parcela": 6,
+        "id": "8"
+    },
+    {
+        "path": "/assets/fotosTenis/nikeLaranjaCanoLongoMasculino.png",
+        "marca" : "Nike",
+        "modelo" : "Masculino",
+        "cor": "Laranja",
+        "preco": "840,00",
+        "desconto": "800,00",
+        "frete": "Frete grátis",
+        "parcela": 8,
+        "id": "9"
+    },
+    {
+        "path": "/assets/fotosTenis/nikeVerdeMasculino.png",
+        "marca" : "Nike",
+        "modelo" : "Masculino",
+        "cor": "Verde",
+        "preco": "640,00",
+        "desconto": "600,00",
+        "frete": "Frete grátis",
+        "parcela": 6,
+        "id": "10"
+    },
+    {
+        "path": "/assets/fotosTenis/nikeFemininoBrancoVermelho.png",
+        "marca" : "Nike",
+        "modelo" : "Feminino",
+        "cor": "branco vermelho",
+        "preco": "540,00",
+        "desconto": "500,00",
+        "frete": "Frete grátis",
+        "parcela": 6,
+        "id": "11"
+    },
+    {
+        "path": "/assets/fotosTenis/nikeFemininoRoza.png",
+        "marca" : "Nike",
+        "modelo" : "Feminino",
+        "cor": "Roza",
+        "preco": "500,00",
+        "desconto": "480,00",
         "frete": "Frete grátis",
         "parcela": 4,
-        "id": "1"
+        "id": "12"
     }
+    
 ]

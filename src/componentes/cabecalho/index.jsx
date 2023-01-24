@@ -1,5 +1,4 @@
 import React from 'react'
-import ItemDeLista from '../itemDeLista'
 import styles from './cabecalho.module.css'
 import lupa from './lupa.png'
 
@@ -9,11 +8,12 @@ export default function Cabecalho() {
         <h1>Solado</h1>
         <div className={styles.pesquisa}>
             <img src={lupa} alt="imagem de pesquisa"  className={styles.icone}/>
-            <input type="text" name="" id="" className={styles.input} />
+            <input type="text" name="" id="" className={styles.input}  placeholder={"O que você está procurando?"}/>
         </div>
         <ul className={styles.lista_menu}>
-            <ItemDeLista nome={"Lista de desejo"}/>
-            <ItemDeLista nome={"Entrar"}/>
+          <li>Lista de desejos</li>
+          <li>Entrar</li>
+           
             
         </ul>
     </header>

@@ -4,6 +4,7 @@ import styles from './paginas/estilosGlobais/estilosGlobais.module.css'
 
 function App() {
   return (
+    
    <Main estilo ={styles}/>
   );
 }

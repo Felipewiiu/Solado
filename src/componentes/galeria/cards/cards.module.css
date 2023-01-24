@@ -1,15 +1,24 @@
 .cardContainer{
+    padding: 10px;
     width: 20rem;
-    height: 30rem;
-    /* background-color: red; */
+    height: 32rem;
+    background-color: #f6f6f6;
     margin: 2rem;
+    transition: all 0.5s;
+    border-radius: 20px;
+    border: solid 1px rgb(176, 90, 225);
+    
+}
 
+.cardContainer:hover{
+    transform: translateY(-1rem);
     
 }
 
 .img{
-    width: 20rem;
-    height: 20rem; 
+    border-radius: 20px;
+    width: calc(20rem - 22px);
+    height: 19rem; 
     background-color: rgb(38, 222, 222);
 }
 

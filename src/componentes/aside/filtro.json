@@ -1,0 +1,18 @@
+[
+    {
+        "tag": "Maior preço",
+        "id": 1
+    },
+    {
+        "tag": "Menor preço",
+        "id": 2
+    },
+    {
+        "tag": "Marca",
+        "id": 3
+    },
+    {
+        "tag": "Preco",
+        "id": 4
+    }
+]
