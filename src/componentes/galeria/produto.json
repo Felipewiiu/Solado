@@ -63,7 +63,8 @@
         "desconto": "670,00",
         "frete": "Frete grátis",
         "parcela": 6,
-        "id": "6"
+        "id": "6",
+        "lancamento": "Lançamento"
     },
     {
         "path": "/assets/fotosTenis/nikeBrancoVerdeFeminino.png",
@@ -74,7 +75,8 @@
         "desconto": "500,00",
         "frete": "Frete grátis",
         "parcela": 6,
-        "id": "7"
+        "id": "7",
+        "lancamento": "Lançamento"
     },
     {
         "path": "/assets/fotosTenis/nikeDouradoMasculino.png",
@@ -85,7 +87,8 @@
         "desconto": "640,00",
         "frete": "Frete grátis",
         "parcela": 6,
-        "id": "8"
+        "id": "8",
+        "lancamento": "Lançamento"
     },
     {
         "path": "/assets/fotosTenis/nikeLaranjaCanoLongoMasculino.png",
@@ -101,13 +104,14 @@
     {
         "path": "/assets/fotosTenis/nikeVerdeMasculino.png",
         "marca" : "Nike",
-        "modelo" : "Masculino",
+        "modelo" : "Feminino",
         "cor": "Verde",
         "preco": "640,00",
         "desconto": "600,00",
         "frete": "Frete grátis",
         "parcela": 6,
-        "id": "10"
+        "id": "10",
+        "lancamento": "Lançamento"
     },
     {
         "path": "/assets/fotosTenis/nikeFemininoBrancoVermelho.png",

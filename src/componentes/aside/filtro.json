@@ -8,11 +8,15 @@
         "id": 2
     },
     {
-        "tag": "Marca",
+        "tag": "Modelo Feminino",
         "id": 3
     },
     {
-        "tag": "Preco",
+        "tag": "Modelo Masculino",
         "id": 4
+    },
+    {
+        "tag": "Lançamento",
+        "id": 5
     }
 ]

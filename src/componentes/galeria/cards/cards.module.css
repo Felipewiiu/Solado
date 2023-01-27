@@ -1,4 +1,5 @@
 .cardContainer{
+    position: relative;
     padding: 10px;
     width: 20rem;
     height: 32rem;
@@ -24,6 +25,7 @@
 
 .containerDescricao p{
     padding: 0.4rem;
+    width: auto;
 }
 
 .preco{
@@ -41,4 +43,16 @@
 .desconto{
     font-weight: bold;
     font-size: 1.35rem;
+}
+
+.lancamento{
+    position: absolute;
+    padding: 0.4rem;
+    top: 0.7rem;
+    width: auto;
+    border: solid 1px rgb(176, 90, 225);
+    border-radius: 10px;
+    background-color: rgb(176, 90, 225);
+    color: #fdfdfd;
+    font-weight: 600;
 }

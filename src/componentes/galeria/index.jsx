@@ -6,22 +6,22 @@ import styles from './galeria.module.css'
 
 export default function Galeria({card}) {
 
- 
 
 
   return (
     <div className={styles.container}>
       {card.map(item => {
+            
         return(
-          <Cards produto={item} 
-          key={item.id}
-         
-          />
-
-        )
-        
+          <Cards produto={item} key={item.id}/>
+          )
+          
 
       })}
+
+      
     </div>
+
+    
   )
 }
